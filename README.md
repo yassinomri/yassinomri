@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yassinomri
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in Embedded Software Engineering and Embedded Linux Dev
+- 🌱 I’m currently learning about Embedded Systems and Linux OS
 
 <!---
 yassinomri/yassinomri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
