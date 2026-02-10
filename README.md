@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yassinomri
-- 👀 I’m interested in Embedded Software Engineering and Embedded Linux Dev
+- 👀 I’m interested in Embedded Software Engineering and Embedded Linux
 - 🌱 I’m currently learning about Embedded Systems and Linux OS
 
 <!---
