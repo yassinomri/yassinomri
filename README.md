@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassine Omri
 
-**Electrical Engineer | Embedded Linux Developer | Qt Application Developer**
+**Electrical Engineer | Embedded Linux Developer**
 
 🎓 Electrical Engineering graduate from National Engineering School of Tunis, passionate about building and understanding Linux-based embedded systems.
 
