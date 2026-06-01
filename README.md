@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yassin
 
-**Embedded Systems Engineer | Embedded Linux Specialist | Yocto/BitBake Expert**
+**Embedded Systems Engineer | Embedded Linux | System Integration (Yocto/Buildroot)
 
 Embedded Systems Engineer with hands-on experience delivering **production-grade Linux and firmware solutions** for embedded platforms. I specialize in **Yocto/BitBake image customization**, **embedded C/C++**, and **hardware-software integration** across ARM/aarch64 and x86-64 targets. Proven track record in system bring-up, build automation, and customer-focused deployment for kiosk, IoT, and gateway projects.
 
