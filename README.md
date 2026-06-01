@@ -171,7 +171,6 @@ I'm always excited to:
 
 ## 📫 Get In Touch
 
-- 🐙 **GitHub:** [github.com/yassinomri](https://github.com/yassinomri)
 - 💼 **LinkedIn:** [linkedin.com/in/yassinomri](https://linkedin.com/in/yassinomri)
 - 📧 **Email:** yassinomri4@gmail.com
 - 📱 **Phone:** +216 54 430 976
