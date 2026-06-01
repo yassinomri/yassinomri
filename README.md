@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yassine Omri
+# 👋 Hey, I'm Yassin
 
 **Embedded Systems Engineer | Embedded Linux Specialist | Yocto/BitBake Expert**
 
